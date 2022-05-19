@@ -1,8 +1,0 @@
-{
-  "dependencies": {
-    "near-api-js": "^0.44.2",
-    "purescript": "^0.15.0",
-    "spago": "^0.20.9",
-    "xhr2": "^0.2.1"
-  }
-}
